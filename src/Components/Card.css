@@ -1,0 +1,15 @@
+.marg {
+  margin: 0% 25% 25% 10%;
+}
+.headup {
+  margin-bottom: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+}
+.center {
+  
+    margin: auto;
+    width: 50%;
+    padding: 10px
+
+}
